@@ -40,6 +40,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [Piper MAKE](https://make.playpiper.com/) - Educational platform that uses a Blockly-like visual programming tool to write code and load it onto a Raspberry Pi Pico from the browser. Also, has a novel use of the File System Access API.
 - [Adafruit ESP bootloader flashing tool](https://adafruit.github.io/Adafruit_WebSerial_ESPTool/) - "WebSerial ESPTool designed to be a web-capable option for programming ESP32-S2 boards". There's also a [tutorial](https://learn.adafruit.com/adafruit-metro-esp32-s2/web-serial-esptool) and [the code is available on Github](https://github.com/adafruit/Adafruit_WebSerial_ESPTool).
 - [Espruino IDE](https://www.espruino.com/ide/) - An entire web-based IDE for programming the Espruino range of boards. Includes built-in tutorials, guides, and the IDE even has auto-complete.
+- * [GaziDuino](https://github.com/Gazi-AI/GaziDuino) - Web-based Arduino IDE that compiles on a local server and flashes ESP32/Arduino directly from the browser via Web Serial (compatible with Android OTG).
 - [VitalSync](https://xchart.com/automatic-monitoring) - Reads vitals from monitors and produces charting report.
 - [PN532.js](https://github.com/taichunmin/pn532.js) - A JavaScript library for PN532 base on Web Bluetooth and Web Serial.
 - [Wavecake](https://app.getwavecake.com/webdevice) - An IDE for sandboxing Web Serial, Web Bluetooth and other scripts. Examples scripts are included. Also supports UI elements and charts.
