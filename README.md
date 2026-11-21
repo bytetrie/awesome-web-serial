@@ -47,6 +47,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [Phomemo-M02-Web](https://github.com/K0IN/Phomemo-M02-Web) - A offline capable Progessive web app to print images using a Phomemo M02 printer.
 - [modbus-webui](https://anttikotajarvi.github.io/modbus-webui/) - Single file Modbus master web app for interfacing with modbus devices with advanced UX features.
 - [polluSensWeb](https://github.com/WeSpeakEnglish/polluSensWeb) - Lightweight web-based serial interface and charting tool for visualizing and logging data from UART sensors (PM2.5, VOC, etc). JSON configurable, many sensors already in default JSON. 
+- [SerialSpan](https://github.com/eleree/SerialSpan) - Self-hosted browser tool for sharing a Web Serial device with remote collaborators; the host approves access and server relay is available when direct WebRTC is not.
 
 ## Compatible Devices
 
