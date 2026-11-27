@@ -33,6 +33,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [PWA serial terminal](https://github.com/GoogleChromeLabs/serial-terminal) - Offline-capable serial terminal by Google Chrome Labs to demonstrate Web Serial API.
 - [dead link] ~~[Windows XP -inspired web serial controller](https://webserial.app/) - Fun demonstration of a serial communication tool that resembles the UI of the Windows XP desktop.~~
 - [pineTERM](https://wespeakenglish.github.io/pineTERM/) - Modern web-based UART/serial terminal with hex/ASCII views, JSON command macros, and packet grouping, capable to handle huge overnight logs.
+- [YenGear Serial Monitor](https://www.yengear.com/tools/serial-monitor/) - Browser-based serial terminal with HEX and text views, timestamps, log export, and CRC-16/MODBUS calculation.
 
 ## Applications
 
